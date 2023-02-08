@@ -22,8 +22,7 @@
 	<h4>Technologies Used</h4>
     <p>The report was created using various technologies, including <b>Power BI</b> for data transformation, 
 	data modeling, and visualization, and <b>PowerPoint</b> for presentation.</p>
-
-    [Open Report in Power BI](https://app.powerbi.com/groups/me/reports/f0cb6d1f-893a-412b-9fb2-97d7c4928dec?pbi_source=PowerPoint)
+[Open Report in Power BI](https://app.powerbi.com/groups/me/reports/f0cb6d1f-893a-412b-9fb2-97d7c4928dec?pbi_source=PowerPoint)
 	
 </body>
 </html>
